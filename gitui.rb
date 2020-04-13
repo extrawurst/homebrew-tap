@@ -3,7 +3,7 @@ class Gitui < Formula
     homepage "https://github.com/extrawurst/gitui"
     url "https://github.com/extrawurst/gitui/releases/download/rc7/gitui-mac.tar.gz"
     sha256 "3d14946590ab91009a97b8ef7b48eea17afc070d5666aa235c1d2a5fdb60dc75"
-    version "rc7"
+    version "v0.0.1-rc7"
   
     bottle :unneeded
   
